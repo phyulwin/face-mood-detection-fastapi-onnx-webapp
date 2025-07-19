@@ -47,7 +47,7 @@ The application detects the following emotions:
 
 ## Credits
 
-- [OpenCV on Hugging Face](https://huggingface.co/opencv) for the ONNX model
+- [OpenCV on Hugging Face](https://huggingface.co/opencv) for the ONNX model, licensed under Apache 2.0
 - [FastAPI](https://fastapi.tiangolo.com/) for the backend
 - [Pillow](https://pillow.readthedocs.io/) and [ONNX Runtime](https://onnxruntime.ai/) for model inference
 
